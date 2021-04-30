@@ -1,0 +1,4 @@
+ECHO is on.
+
+#Ignore node modules from upload
+node_modules
